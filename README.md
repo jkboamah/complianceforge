@@ -1,74 +1,61 @@
 # ComplianceForge
 
-## Enterprise Governance, Risk & Compliance (GRC) Simulation Platform
+## Enterprise Governance, Risk & Compliance + AI Security Platform
 
-ComplianceForge is an enterprise-grade cybersecurity governance and compliance engineering project designed to simulate how modern cloud-native fintech organizations implement:
+ComplianceForge is a cybersecurity engineering simulation platform demonstrating how modern organizations implement:
 
-- Governance frameworks
+- Governance structures
 - Risk management systems
-- Security controls mapping
-- DevSecOps compliance automation
+- Compliance frameworks
+- DevSecOps pipelines
 - AI security governance
 
 ---
 
-## Fictional Organization
+## Architecture
 
-**NovaBank Cloud Services**
-
-A cloud-native fintech platform delivering AI-driven financial services requiring strict regulatory compliance and security governance.
+See `/architecture/security-architecture.md`
 
 ---
 
-## Core Capabilities Demonstrated
+## Key Features
 
 ### Governance
 - Security program charter
-- Policy management lifecycle
-- Executive reporting structure
+- Policy framework
+- Executive oversight model
 
 ### Risk Management
 - Enterprise risk register
-- Risk scoring model
+- Scoring model
 - Mitigation tracking
 
 ### Compliance Engineering
-- ISO 27001 alignment
-- NIST Cybersecurity Framework mapping
-- SOC 2 readiness model
+- ISO 27001 mapping
+- NIST CSF alignment
+- SOC 2 readiness
 - CIS Controls integration
-- GDPR considerations
 
-### Security Operations
-- Incident response playbooks
-- Threat modeling (STRIDE)
-- Security monitoring strategy
-
-### DevSecOps & Automation
+### DevSecOps
 - GitHub Actions security pipeline
-- SAST / SCA / IaC scanning
-- Governance-as-Code concepts
+- SAST / dependency scanning
+- IaC security checks
 
-### AI Security Governance
+### AI Security
 - Prompt injection defense model
-- LLM risk analysis
-- AI usage policies
+- LLM threat modeling
+- AI governance policies
 
 ---
 
-## Architecture Overview
+## Dashboard
 
-See `/architecture` for full system design.
+Run locally:
 
----
+```bash
+streamlit run dashboards/compliance_dashboard.py
 
-## Status
-
-🚧 Actively developed as a portfolio-grade cybersecurity engineering project.
-
----
-
-## Author
+Author
 
 James Kwasi Boamah
 Cybersecurity Analyst | GRC | DevSecOps | AI Security
