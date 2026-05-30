@@ -12,7 +12,7 @@ This project simulates a real‑world enterprise compliance transformation. It d
 
 ---
 
-## 🎯 Key Features
+## 🎯 Key Features/Capablilities 
 
 - ✅ **Enterprise GRC artifacts** – Policy register, risk register, RCSA, vendor risk, KRI dashboard, issue register
 - ✅ **Multi‑framework alignment** – ISO 27001, SOC2, NIST CSF, CIS Controls, GDPR, PCI DSS
@@ -20,6 +20,15 @@ This project simulates a real‑world enterprise compliance transformation. It d
 - ✅ **AI‑specific registers** – AI risk register, AI system inventory, prompt injection lab
 - ✅ **Governance‑as‑Code** – GitHub Actions, compliance automation scripts
 - ✅ **Audit‑ready evidence** – Evidence register, control mappings, obligations tracker
+- ✅ **Security Metrics & KPI Monitoring** 
+- ✅ **Incident Response Management**
+- ✅ **DevSecOps Security Automation**
+- ✅ **Executive Security Reporting**
+- ✅ **Vendor Risk Management**
+- ✅ **Compliance Framework Mapping**
+
+
+
 
 ---
 
