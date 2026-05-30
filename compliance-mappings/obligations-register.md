@@ -30,3 +30,7 @@ Inventory of applicable laws, regulations, and contractual requirements for the 
 | REG-007 | ISO/IEC 42001:2023 | AI management system requirements | All AI systems | AI Governance Lead | AI policy (POL-008), AI risk register | Annual |
 | REG-008 | NIST AI RMF 1.0 | Govern, Map, Measure, Manage functions | AI/LLM systems | AI Security Lead | NIST mapping document, AI controls | Annual |
 | REG-009 | EU AI Act (Art. 9-27) | High-risk AI system requirements | Credit risk AI, banking analytics | Compliance Lead | Conformity assessment, technical documentation | Quarterly |
+
+| REG-007 | ISO/IEC 42001 | AI management system | All AI systems | AI Governance Lead | AI risk register | Annual |
+| REG-008 | NIST AI RMF 1.0 | Govern, Map, Measure, Manage | AI/LLM systems | AI Security Lead | NIST mapping | Annual |
+| REG-009 | EU AI Act Art.9-27 | High-risk AI obligations | CreditScoreAI, FraudDetect | Compliance Lead | Conformity assessment | Quarterly |
