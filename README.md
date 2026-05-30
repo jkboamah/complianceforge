@@ -79,7 +79,7 @@ ComplianceForge/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/complianceforge.git
+   git clone https://github.com/softvillaGh/complianceforge.git
    cd complianceforge
 
 Explore the artifacts – Start with governance/policy-register.md and risk/risk-register.md.
@@ -89,6 +89,7 @@ Run the compliance dashboard (requires Python + Streamlit)
 bash
 pip install streamlit pandas plotly
 streamlit run dashboards/compliance_dashboard.py
+
 📊 Key Artifacts Showcase
 Governance
 Policy Register – 8 enterprise policies with owners, review cycles, and status.
@@ -140,7 +141,7 @@ If you’re targeting GRC, security consulting, compliance engineering, or AI go
 MIT License – free to use, adapt, and showcase in your portfolio.
 
 🌟 Show Your Support
-If you find this project useful for your own GRC learning or career, star the repository and share it on LinkedIn with:
+If you find this project useful for your own GRC learning or career, star the repository and share it on LinkedIn with: https://github.com/softvillaGh/complianceforge
 
 “I built an open‑source enterprise GRC reference implementation covering ISO 27001, SOC2, and complete AI governance (ISO 42001, NIST AI RMF, EU AI Act). Check it out: [link]”
 
@@ -151,9 +152,10 @@ Built as a reference implementation – not a commercial product.
 
 All framework mappings are for educational and portfolio purposes.
 
-Maintained by James Kwasi Boamah – Open to GRC roles, security consulting, and AI governance opportunities.
+Maintained by James Kwasi Boamah –
+Open to GRC roles, security consulting, and AI governance opportunities.
 
-text
+
 
 ---
 
