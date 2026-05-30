@@ -26,3 +26,7 @@ Inventory of applicable laws, regulations, and contractual requirements for the 
 |---------|------|-------------|
 | 1.0 | 2025-06-01 | Initial obligations register (GDPR, ISO27001, SOC2, PCI DSS, NIST, AI Act) |
 
+
+| REG-007 | ISO/IEC 42001:2023 | AI management system requirements | All AI systems | AI Governance Lead | AI policy (POL-008), AI risk register | Annual |
+| REG-008 | NIST AI RMF 1.0 | Govern, Map, Measure, Manage functions | AI/LLM systems | AI Security Lead | NIST mapping document, AI controls | Annual |
+| REG-009 | EU AI Act (Art. 9-27) | High-risk AI system requirements | Credit risk AI, banking analytics | Compliance Lead | Conformity assessment, technical documentation | Quarterly |
