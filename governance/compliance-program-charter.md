@@ -1,7 +1,7 @@
 # Compliance Program Charter
 
 ## Organization
-NovaBank Cloud Services (Fictional)
+Reference Enterprise Environment
 
 ## Program Name
 ComplianceForge Security & Governance Program
@@ -13,7 +13,7 @@ ComplianceForge Security & Governance Program
 
 # 1. Purpose
 
-The purpose of this charter is to define the governance structure, accountability model, and operational scope for cybersecurity, risk management, and compliance activities within NovaBank Cloud Services.
+The purpose of this charter is to define the governance structure, accountability model, and operational scope for cybersecurity, risk management, compliance, and AI governance activities within a reference enterprise environment.
 
 This program ensures alignment between security controls, business objectives, and regulatory requirements.
 

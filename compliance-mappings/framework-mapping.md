@@ -1,7 +1,7 @@
 # Compliance Framework Mapping Matrix
 
 ## Organization
-NovaBank Cloud Services (Fictional)
+Reference Enterprise Environment
 
 ## System
 ComplianceForge Governance Engine

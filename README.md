@@ -10,6 +10,12 @@ This project simulates a real‑world enterprise compliance transformation. It d
 
 > **Target audience:** GRC professionals, security architects, compliance engineers, AI governance leads, and hiring managers.
 
+## Disclaimer
+
+This repository is a cybersecurity governance, risk, compliance, and AI assurance reference implementation created for educational, research, portfolio, and consulting demonstration purposes.
+
+All organizations, systems, assets, risks, controls, and scenarios represented within this repository are illustrative examples and do not represent any real company, client, or engagement.
+
 ---
 
 ## 🎯 Key Features/Capablilities 

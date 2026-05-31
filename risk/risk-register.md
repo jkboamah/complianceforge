@@ -1,7 +1,7 @@
 # Enterprise Risk Register
 
 ## Organization
-NovaBank Cloud Services (Fictional)
+Reference Enterprise Environment
 
 ## System
 ComplianceForge Risk Management System
@@ -10,7 +10,7 @@ ComplianceForge Risk Management System
 
 # 1. Purpose
 
-This risk register defines cybersecurity, operational, and compliance risks affecting NovaBank Cloud Services. It provides structured tracking, scoring, and mitigation planning.
+This risk register defines cybersecurity, operational, compliance, and AI-related risks within a reference enterprise environment. It provides structured tracking, scoring, ownership, and mitigation planning.
 
 ---
 

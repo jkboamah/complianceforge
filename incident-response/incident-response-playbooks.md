@@ -1,7 +1,7 @@
 # Incident Response Playbooks
 
 ## Organization
-NovaBank Cloud Services (Fictional)
+Reference Enterprise Environment
 
 ## System
 ComplianceForge Incident Response Framework

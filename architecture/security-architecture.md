@@ -1,4 +1,4 @@
-# NovaBank Security Architecture
+# # Enterprise Security Architecture Reference Model
 
 ## ComplianceForge Enterprise Security Model
 

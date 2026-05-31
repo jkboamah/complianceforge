@@ -1,7 +1,7 @@
 # AI Security Lab — Prompt Injection & LLM Risk Scenarios
 
 ## Organization
-NovaBank Cloud Services (Fictional)
+Reference Enterprise Environment
 
 ## System
 ComplianceForge AI Security Governance Layer
