@@ -108,6 +108,11 @@ Run the compliance dashboard (requires Python + Streamlit)
 bash
 pip install streamlit pandas plotly
 streamlit run dashboards/compliance_dashboard.py
+## Live Dashboard
+
+Streamlit Dashboard:
+
+https://complianceforge-uixnahd3bpxmipc8vsahtr.streamlit.app/
 
 📊 Key Artifacts Showcase
 Governance
