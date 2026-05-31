@@ -53,7 +53,6 @@ All organizations, systems, assets, risks, controls, and scenarios represented w
 ---
 
 ## 📂 Repository Structure
-
 ComplianceForge/
 ├── governance/
 │ ├── compliance-program-charter.md
@@ -88,6 +87,8 @@ ComplianceForge/
 ├── threat-intelligence/
 │ └── stride-threat-model.md
 ├── architecture/
+│ ├── images/
+│ │ └── complianceforge-reference-architecture.png
 │ └── security-architecture.md
 └── README.md
 
