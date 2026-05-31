@@ -1,8 +1,8 @@
 # ComplianceForge
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GRC Reference](https://img.shields.io/badge/GRC-Reference_Implementation-blue)](https://github.com/yourusername/complianceforge)
-[![AI Governance](https://img.shields.io/badge/AI_Governance-ISO%2042001%20%7C%20NIST%20AI%20RMF%20%7C%20EU%20AI%20Act-purple)](https://github.com/yourusername/complianceforge)
+[![GRC Reference](https://img.shields.io/badge/GRC-Reference_Implementation-blue)](https://github.com/jkboamah/ComplianceForge)
+[![AI Governance](https://img.shields.io/badge/AI_Governance-ISO%2042001%20%7C%20NIST%20AI%20RMF%20%7C%20EU%20AI%20Act-purple)](https://github.com/jkboamah/ComplianceForge)
 
 **Open‑source Governance, Risk & Compliance (GRC) reference implementation for modern cloud and AI‑driven enterprises.**
 
@@ -88,7 +88,7 @@ ComplianceForge/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/softvillaGh/complianceforge.git
+   git clone https://github.com/jkboamah/ComplianceForge.git
    cd complianceforge
 
 Explore the artifacts – Start with governance/policy-register.md and risk/risk-register.md.
@@ -150,9 +150,9 @@ If you’re targeting GRC, security consulting, compliance engineering, or AI go
 MIT License – free to use, adapt, and showcase in your portfolio.
 
 🌟 Show Your Support
-If you find this project useful for your own GRC learning or career, star the repository and share it on LinkedIn with: https://github.com/softvillaGh/complianceforge
+If you find this project useful for your own GRC learning or career, star the repository and share it on LinkedIn with:  https://github.com/jkboamah/ComplianceForge
 
-“I built an open‑source enterprise GRC reference implementation covering ISO 27001, SOC2, and complete AI governance (ISO 42001, NIST AI RMF, EU AI Act). Check it out: [link]”
+“I built an open‑source enterprise GRC reference implementation covering ISO 27001, SOC2, and complete AI governance (ISO 42001, NIST AI RMF, EU AI Act). Check it out: https://github.com/jkboamah/ComplianceForge”
 
 🙏 Acknowledgements
 Inspired by real‑world compliance programs at cloud‑native FinTech companies.
