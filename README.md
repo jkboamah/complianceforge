@@ -37,6 +37,10 @@ All organizations, systems, assets, risks, controls, and scenarios represented w
 
 
 ---
+## Reference Architecture
+
+![ComplianceForge Architecture](architecture/images/complianceforge-reference-architecture.png)
+
 
 ## 📚 Frameworks & Standards Covered
 
