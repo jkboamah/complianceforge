@@ -1,0 +1,6 @@
+RiskID,RiskName,Category,Impact,Likelihood,Exploitability,Score,Status
+RSK-001,Ransomware Attack,Cyber,5,4,4,80,Open
+RSK-002,Cloud Misconfiguration,Technology,4,3,3,36,Mitigated
+RSK-003,Third Party Breach,Vendor,5,3,4,60,Open
+RSK-004,Prompt Injection Attack,AI Security,4,3,4,48,Monitoring
+RSK-005,Privilege Escalation,Identity,5,2,4,40,Mitigated
