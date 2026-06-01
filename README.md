@@ -3,6 +3,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GRC Reference](https://img.shields.io/badge/GRC-Reference_Implementation-blue)](https://github.com/jkboamah/ComplianceForge)
 [![AI Governance](https://img.shields.io/badge/AI_Governance-ISO%2042001%20%7C%20NIST%20AI%20RMF%20%7C%20EU%20AI%20Act-purple)](https://github.com/jkboamah/ComplianceForge)
+[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Streamlit-success)](https://complianceforge-uixnahd3bpxmipc8vsahtr.streamlit.app/)
 
 **Open‑source Governance, Risk & Compliance (GRC) reference implementation for modern cloud and AI‑driven enterprises.**
 
