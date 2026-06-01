@@ -41,6 +41,11 @@ All organizations, systems, assets, risks, controls, and scenarios represented w
 
 ![ComplianceForge Architecture](architecture/images/complianceforge-reference-architecture.png)
 
+## Live Dashboard
+
+Explore the interactive executive reporting dashboard:
+
+https://complianceforge-uixnahd3bpxmipc8vsahtr.streamlit.app/
 
 ## 📚 Frameworks & Standards Covered
 
@@ -109,11 +114,7 @@ Run the compliance dashboard (requires Python + Streamlit)
 bash
 pip install streamlit pandas plotly
 streamlit run dashboards/compliance_dashboard.py
-## Live Dashboard
 
-Streamlit Dashboard:
-
-https://complianceforge-uixnahd3bpxmipc8vsahtr.streamlit.app/
 
 ## Dashboard Preview
 
