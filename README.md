@@ -115,6 +115,21 @@ Streamlit Dashboard:
 
 https://complianceforge-uixnahd3bpxmipc8vsahtr.streamlit.app/
 
+## Dashboard Preview
+
+### Executive Overview
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Compliance Framework Monitoring
+
+![Compliance Scores](screenshots/compliance-scores.png)
+
+### Enterprise Risk Register
+
+![Risk Register](screenshots/risk-register.png)
+
+
 📊 Key Artifacts Showcase
 Governance
 Policy Register – 8 enterprise policies with owners, review cycles, and status.
