@@ -10,6 +10,19 @@ This project simulates a real‑world enterprise compliance transformation. It d
 
 > **Target audience:** GRC professionals, security architects, compliance engineers, AI governance leads, and hiring managers.
 
+## Project Scope
+
+ComplianceForge includes:
+
+* 20+ governance and compliance artifacts
+* 8 enterprise security policies
+* 4 major compliance frameworks mapped
+* 3 AI governance frameworks implemented
+* Executive KPI and KRI reporting dashboards
+* Enterprise risk, vendor risk, and AI risk registers
+* Audit evidence management and compliance tracking
+
+
 ## Disclaimer
 
 This repository is a cybersecurity governance, risk, compliance, and AI assurance reference implementation created for educational, research, portfolio, and consulting demonstration purposes.
@@ -54,6 +67,30 @@ https://complianceforge-uixnahd3bpxmipc8vsahtr.streamlit.app/
 | **Information Security** | ISO/IEC 27001:2022, SOC2 (Trust Services Criteria), NIST CSF v1.1, CIS Controls v8 |
 | **Privacy & Industry** | GDPR, PCI DSS v4.0 |
 | **AI Governance** | ISO/IEC 42001:2023, NIST AI RMF 1.0, EU AI Act (high‑risk AI obligations) |
+
+## Technology Stack
+
+### Languages & Tools
+
+* Python
+* Streamlit
+* Pandas
+* Plotly
+* Git
+* GitHub
+
+### Security & Compliance Frameworks
+
+* ISO/IEC 27001
+* ISO/IEC 42001
+* NIST CSF
+* NIST AI RMF
+* CIS Controls
+* SOC 2
+* GDPR
+* PCI DSS
+* EU AI Act
+
 
 ---
 
@@ -143,7 +180,8 @@ KRI Dashboard – MFA coverage, vulnerability aging, phishing click rate, MTTD/M
 
 Security KPIs – Executive‑level metrics with targets.
 
-🧠 Why This Project Matters for Your Career
+
+🧠 Professional Competencies Demonstrated
 If you’re targeting GRC, security consulting, compliance engineering, or AI governance roles, this repository demonstrates:
 
 📋 Documentation maturity – Real artifacts, not just checklists.
@@ -155,6 +193,23 @@ If you’re targeting GRC, security consulting, compliance engineering, or AI go
 🔄 Governance‑as‑Code – Automation and version control for compliance.
 
 📊 Executive reporting – Dashboards and KPIs that speak to leadership.
+
+
+## Who This Demonstrates Skills For
+
+This repository showcases practical competencies relevant to:
+
+* Cybersecurity Analyst
+* Governance, Risk & Compliance (GRC) Analyst
+* Security Consultant
+* Security Program Manager
+* Third-Party Risk Analyst
+* Compliance Engineer
+* AI Governance Analyst
+* Cybersecurity Project Manager
+* Security Operations Manager
+* Information Security Manager
+
 
 📄 License
 MIT License – free to use, adapt, and showcase in your portfolio.
