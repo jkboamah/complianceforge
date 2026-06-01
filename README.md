@@ -228,6 +228,7 @@ Built as a reference implementation – not a commercial product.
 All framework mappings are for educational and portfolio purposes.
 
 Maintained by James Kwasi Boamah –
+
 Open to GRC roles, security consulting, and AI governance opportunities.
 
 
