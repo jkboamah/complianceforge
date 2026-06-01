@@ -58,44 +58,22 @@ https://complianceforge-uixnahd3bpxmipc8vsahtr.streamlit.app/
 ---
 
 ## 📂 Repository Structure
+```text
 ComplianceForge/
 ├── governance/
-│ ├── compliance-program-charter.md
-│ ├── policy-register.md
-│ └── roles-and-responsibilities.md
 ├── risk/
-│ ├── risk-register.md
-│ ├── vendor-risk-register.md
-│ ├── rcsa-workbook.md
-│ └── ai-risk-register.md
 ├── controls/
-│ └── issue-register.md
 ├── compliance-mappings/
-│ ├── framework-mapping.md
-│ └── obligations-register.md
 ├── dashboards/
-│ ├── compliance_dashboard.py (Streamlit)
-│ ├── kri-dashboard.md
-│ └── security-kpis.md
 ├── evidence/
-│ └── audit-evidence-register.md
 ├── incident-response/
-│ └── playbooks/
 ├── automation/
-│ └── github-actions/
 ├── inventory/
-│ └── ai-system-inventory.md
 ├── ai-governance/
-│ ├── iso-42001-mapping.md
-│ ├── nist-ai-rmf-mapping.md
-│ └── eu-ai-act-obligations.md
 ├── threat-intelligence/
-│ └── stride-threat-model.md
 ├── architecture/
-│ ├── images/
-│ │ └── complianceforge-reference-architecture.png
-│ └── security-architecture.md
 └── README.md
+```
 
 
 ---
